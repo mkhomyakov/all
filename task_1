@@ -1,0 +1,2 @@
+def card_hide(card_number):
+  print('*' * 12 + card_number[12:])
